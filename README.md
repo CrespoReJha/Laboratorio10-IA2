@@ -31,6 +31,8 @@ Con este proyecto, podrás:
 - **ArcFace** (reconocimiento facial):
   - Paper: [ArcFace: Additive Angular Margin Loss for Deep Face Recognition](https://arxiv.org/abs/1801.07698)
   - GitHub: [InsightFace - ArcFace](https://github.com/deepinsight/insightface)
+- **Documentacion sobre la implementacion de DeepFace**:
+  - Pagina: [PyPi - DeepFace](https://pypi.org/project/deepface/)  
 
 ### **Implementación de DeepFace:**
 - Documentación oficial: [DeepFace GitHub Repository](https://github.com/serengil/deepface)
